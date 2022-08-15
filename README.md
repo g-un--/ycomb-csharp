@@ -3,7 +3,7 @@ Y combinator in C#
 
 Just a toy program.
 
-Can be useful for creating a pipeline of recursive function
+Can be useful for creating a pipeline of recursive functions
 
 ## Usage
 
